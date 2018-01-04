@@ -1,2 +1,2 @@
 [config]
-command = echo Hello World
+command = sh deploy.sh
